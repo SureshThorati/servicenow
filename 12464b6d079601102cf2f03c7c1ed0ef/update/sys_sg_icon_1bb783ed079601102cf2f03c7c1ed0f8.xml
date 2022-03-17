@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Name":"Home"}</icon>
+        <name>Home GIT HUB</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-17 22:27:54</sys_created_on>
+        <sys_id>1bb783ed079601102cf2f03c7c1ed0f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home GIT HUB</sys_name>
+        <sys_package display_value="GIT HUB" source="x_301606_git_hub">12464b6d079601102cf2f03c7c1ed0ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GIT HUB">12464b6d079601102cf2f03c7c1ed0ef</sys_scope>
+        <sys_update_name>sys_sg_icon_1bb783ed079601102cf2f03c7c1ed0f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-17 22:27:54</sys_updated_on>
+        <type>image</type>
+    </sys_sg_icon>
+</record_update>

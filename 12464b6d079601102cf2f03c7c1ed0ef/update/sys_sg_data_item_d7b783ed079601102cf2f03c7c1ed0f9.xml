@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>GIT HUB GIT Test</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-17 22:27:54</sys_created_on>
+        <sys_id>d7b783ed079601102cf2f03c7c1ed0f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GIT HUB GIT Test</sys_name>
+        <sys_package display_value="GIT HUB" source="x_301606_git_hub">12464b6d079601102cf2f03c7c1ed0ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GIT HUB">12464b6d079601102cf2f03c7c1ed0ef</sys_scope>
+        <sys_update_name>sys_sg_data_item_d7b783ed079601102cf2f03c7c1ed0f9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-17 22:27:54</sys_updated_on>
+        <table>x_301606_git_hub_git_test</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=d7b783ed079601102cf2f03c7c1ed0f9"/>
+</record_update>

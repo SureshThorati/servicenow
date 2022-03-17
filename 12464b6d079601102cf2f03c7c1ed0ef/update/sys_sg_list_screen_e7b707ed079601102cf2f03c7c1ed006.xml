@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description> GIT Test</description>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">17b783ed079601102cf2f03c7c1ed0f6</icon>
+        <name>GIT Tests</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-17 22:27:54</sys_created_on>
+        <sys_id>e7b707ed079601102cf2f03c7c1ed006</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GIT Tests</sys_name>
+        <sys_package display_value="GIT HUB" source="x_301606_git_hub">12464b6d079601102cf2f03c7c1ed0ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GIT HUB">12464b6d079601102cf2f03c7c1ed0ef</sys_scope>
+        <sys_update_name>sys_sg_list_screen_e7b707ed079601102cf2f03c7c1ed006</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-17 22:27:54</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=e7b707ed079601102cf2f03c7c1ed006"/>
+</record_update>

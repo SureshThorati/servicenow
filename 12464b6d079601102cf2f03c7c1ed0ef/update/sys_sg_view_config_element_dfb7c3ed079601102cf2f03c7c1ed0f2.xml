@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>number-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-17 22:27:54</sys_created_on>
+        <sys_id>dfb7c3ed079601102cf2f03c7c1ed0f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>number-FieldValue</sys_name>
+        <sys_package display_value="GIT HUB" source="x_301606_git_hub">12464b6d079601102cf2f03c7c1ed0ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GIT HUB">12464b6d079601102cf2f03c7c1ed0ef</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_dfb7c3ed079601102cf2f03c7c1ed0f2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-17 22:27:54</sys_updated_on>
+        <view_config display_value="GIT Test Detail Screen View Config">9bb7c3ed079601102cf2f03c7c1ed0f2</view_config>
+        <view_template_slot display_value="text_01">177205bc41e35010f877183fc9b8bedd</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>
