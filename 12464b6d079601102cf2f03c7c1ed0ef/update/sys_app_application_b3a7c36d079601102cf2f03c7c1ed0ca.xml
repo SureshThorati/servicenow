@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
     <sys_app_application action="INSERT_OR_UPDATE">
         <active>true</active>
-        <category display_value="">Custom Applications</category>
+        <category display_value="Social IT">8a8369acc0a8016600f20672026f0451</category>
         <description/>
         <device_type>browser</device_type>
         <hint/>
@@ -14,7 +14,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>b3a7c36d079601102cf2f03c7c1ed0ca</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>GIT HUB</sys_name>
         <sys_overrides/>
         <sys_package display_value="GIT HUB" source="x_301606_git_hub">12464b6d079601102cf2f03c7c1ed0ef</sys_package>
@@ -22,7 +22,7 @@
         <sys_scope display_value="GIT HUB">12464b6d079601102cf2f03c7c1ed0ef</sys_scope>
         <sys_update_name>sys_app_application_b3a7c36d079601102cf2f03c7c1ed0ca</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-03-17 22:53:27</sys_updated_on>
+        <sys_updated_on>2022-03-21 12:11:14</sys_updated_on>
         <title>GIT HUB</title>
         <view_name/>
     </sys_app_application>
